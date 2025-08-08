@@ -1,22 +1,24 @@
+
+
+/*You are required to complete
+this function*/
+
+// Function to find square root
+// x: element to find square root
 class Solution {
     int floorSqrt(int n) {
-        // code here
-        int result=binarysearch(1,n,n);
-        return result;
-    }
-    int binarysearch(int low,int high,int n){
-        int ans=1;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(mid*mid<=n){
+        // Your code here
+        int ans=1,low=0,high=n,mid;
+        while(low <= high){
+            mid=(low+high)/2;
+            if((mid*mid)<=n){
                 ans=mid;
                 low=mid+1;
             }
-            else if(mid*mid>n){
+            else{
                 high=mid-1;
             }
-           
         }
-        return high;
+        return ans;
     }
 }
