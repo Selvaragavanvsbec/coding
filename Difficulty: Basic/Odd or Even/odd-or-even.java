@@ -1,13 +1,10 @@
 class Solution {
     static boolean isEven(int n) {
         // code here
-       
+        boolean flag=false;
         if(n%2==0){
-            return true;
+            flag=true;
         }
-       else{
-            return false;
-        }
-      
+        return flag;
     }
-    }
+}
