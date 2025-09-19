@@ -1,18 +1,16 @@
 class Solution {
     public ArrayList<Integer> preorder(Node root) {
         //  code here
-        ArrayList al=new ArrayList();
-        pre(root,al);
-        return al;
-     
-        
+        ArrayList<Integer> al=new ArrayList<>();
+    pre(al,root);
+    return al;
     }
-    public static void pre(Node root,ArrayList al){
-           if(root==null){
+    public  void pre(ArrayList al,Node root){
+            if(root==null){
             return;
         }
         al.add(root.data);
-        pre(root.left,al);
-        pre(root.right,al);
+        pre(al,root.left);
+        pre(al,root.right);
     }
 }
