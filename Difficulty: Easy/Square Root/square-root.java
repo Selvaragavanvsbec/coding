@@ -8,10 +8,17 @@ this function*/
 class Solution {
     int floorSqrt(int n) {
         // Your code here
-        int sqr=1;
-for(int i=1;i*i<=n;i++){
-   sqr=i;
-}
-return sqr;
+        int ans=1,low=0,high=n,mid;
+        while(low <= high){
+            mid=(low+high)/2;
+            if((mid*mid)<=n){
+                ans=mid;
+                low=mid+1;
+            }
+            else{
+                high=mid-1;
+            }
+        }
+        return ans;
     }
 }
