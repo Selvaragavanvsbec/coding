@@ -1,16 +1,30 @@
+/*
+class Node {
+    int data;
+    Node left;
+    Node right;
+
+    Node(int data) {
+        this.data = data;
+        left = null;
+        right = null;
+    }
+}
+*/
+
 class Solution {
-    public ArrayList<Integer> preorder(Node root) {
+    public ArrayList<Integer> preOrder(Node root) {
         //  code here
         ArrayList<Integer> al=new ArrayList<>();
-    pre(al,root);
-    return al;
+        preorder(root,al);
+        return al;
     }
-    public  void pre(ArrayList al,Node root){
-            if(root==null){
+    public void preorder(Node root,ArrayList<Integer> al){
+        if(root==null){
             return;
         }
         al.add(root.data);
-        pre(al,root.left);
-        pre(al,root.right);
+        preorder(root.left,al);
+             preorder(root.right,al);   
     }
 }
