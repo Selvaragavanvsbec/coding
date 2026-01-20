@@ -32,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Selvaragavanvsbec/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Selvaragavanvsbec/coding/tree/master/0287-find-the-duplicate-number) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Selvaragavanvsbec/coding/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Selvaragavanvsbec/coding/tree/master/0151-reverse-words-in-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
