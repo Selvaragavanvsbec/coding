@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvaragavanvsbec/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Selvaragavanvsbec/coding/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Selvaragavanvsbec/coding/tree/master/0287-find-the-duplicate-number) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Selvaragavanvsbec/coding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
@@ -53,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/Selvaragavanvsbec/coding/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Selvaragavanvsbec/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Selvaragavanvsbec/coding/tree/master/0290-word-pattern) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Selvaragavanvsbec/coding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
