@@ -60,4 +60,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvaragavanvsbec/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Selvaragavanvsbec/coding/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
