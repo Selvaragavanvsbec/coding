@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Selvaragavanvsbec/coding/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Selvaragavanvsbec/coding/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvaragavanvsbec/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Selvaragavanvsbec/coding/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Selvaragavanvsbec/coding/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Selvaragavanvsbec/coding/tree/master/0287-find-the-duplicate-number) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Selvaragavanvsbec/coding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Selvaragavanvsbec/coding/tree/master/0620-not-boring-movies) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Selvaragavanvsbec/coding/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
