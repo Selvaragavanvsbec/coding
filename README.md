@@ -11,6 +11,7 @@
 | [0135-candy](https://github.com/Selvaragavanvsbec/coding/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Selvaragavanvsbec/coding/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Selvaragavanvsbec/coding/tree/master/0287-find-the-duplicate-number) |
+| [0904-fruit-into-baskets](https://github.com/Selvaragavanvsbec/coding/tree/master/0904-fruit-into-baskets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Selvaragavanvsbec/coding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -21,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/Selvaragavanvsbec/coding/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Selvaragavanvsbec/coding/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/Selvaragavanvsbec/coding/tree/master/0290-word-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Selvaragavanvsbec/coding/tree/master/0904-fruit-into-baskets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -72,4 +74,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Selvaragavanvsbec/coding/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Selvaragavanvsbec/coding/tree/master/0135-candy) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Selvaragavanvsbec/coding/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
