@@ -15,6 +15,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Selvaragavanvsbec/coding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/Selvaragavanvsbec/coding/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0290-word-pattern](https://github.com/Selvaragavanvsbec/coding/tree/master/0290-word-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Selvaragavanvsbec/coding/tree/master/0904-fruit-into-baskets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Selvaragavanvsbec/coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/Selvaragavanvsbec/coding/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +83,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Selvaragavanvsbec/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Selvaragavanvsbec/coding/tree/master/0904-fruit-into-baskets) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Selvaragavanvsbec/coding/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Selvaragavanvsbec/coding/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
